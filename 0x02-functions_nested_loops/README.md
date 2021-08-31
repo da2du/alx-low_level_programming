@@ -1,1 +1,1 @@
-# Functions and nested loops projects
+this is alx 0x02 proj
