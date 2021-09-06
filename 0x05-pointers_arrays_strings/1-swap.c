@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*swap_int - it swaps two pointerf of value 
+*swap_int - it swaps two pointerf of value
 */
 void swap_int(int *a, int *b)
 {
