@@ -1,0 +1,9 @@
+#include "holberton.h"
+/**
+*_strncat - t
+*/
+
+char *_strncat(char *dest, char *src, int n)
+{
+
+}

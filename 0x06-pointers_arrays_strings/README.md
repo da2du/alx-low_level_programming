@@ -1,1 +1,1 @@
-this is not empty
+# More pointers, arrays and strings
